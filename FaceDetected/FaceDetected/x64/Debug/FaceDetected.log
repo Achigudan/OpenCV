@@ -1,0 +1,3 @@
+﻿  faceDetected.cpp
+e:\41.opencv_pro\pro\face_recog_basic\facedetected\facedetected\facedetected.cpp(18): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  FaceDetected.vcxproj -> E:\41.opencv_pro\Pro\face_recog_basic\eigenFace\EigenFace\x64\Debug\FaceDetected.exe
